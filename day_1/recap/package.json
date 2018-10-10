@@ -1,0 +1,15 @@
+{
+  "name": "live-day-1",
+  "version": "1.0.0",
+  "description": "how to use third party packages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.1",
+    "validator": "^10.8.0"
+  }
+}
